@@ -21,12 +21,30 @@ body{
     height: 500px;
     background-color: #b3b351;
     border-radius: 20px;
-    
+    padding: 40px;
+
 }
 .div img{
     height: 50%;
     width: 100%;
-    padding: 40px;
-
-
+    border-radius: 20px;
+}
+.div h1{
+    font-weight: 200;
+    margin: 10px 70px;
+}
+.div h4{
+    margin: 40px 110px;
+    font-size: medium;
+    color: #1572fc;
+}
+.button{
+    display: flex;
+}
+.button button  {
+    color: beige;
+  background-color: cadetblue;   
+   margin: 20px 30px;
+   padding: 10px;
+   border-radius: 15px;
 }
