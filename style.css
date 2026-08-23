@@ -14,9 +14,19 @@ body{
     align-items: center ;
     justify-content: center;
     background-color: #484545;
+    
 }
 .div{
-    width: 500px;
+    width: 400px;
     height: 500px;
-    background-color: #906868;
+    background-color: #b3b351;
+    border-radius: 20px;
+    
+}
+.div img{
+    height: 50%;
+    width: 100%;
+    padding: 40px;
+
+
 }
